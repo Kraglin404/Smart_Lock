@@ -1,0 +1,30 @@
+# Compiled Binaries and Objects
+*.hex
+*.elf
+*.bin
+*.d
+*.o
+
+# Arduino IDE Build Directories
+build/
+bin/
+
+# IDE Specific Caches and Configurations
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.workspace
+*.project
+*.cproject
+
+# Local Variables / Secrets (Backup configs)
+*secret*.h
+credentials.h
+
+# Temporary / OS Files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
